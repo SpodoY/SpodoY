@@ -11,14 +11,3 @@
             alt="azzar" height="30"/>
         </a>
     </p>
-
-<h2> GitHub Stats 💻 </h2>
-  <div>
-    <p align="center">
-      <br />
-      <a href="https://github.com/SpodoY/">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpodoY&layout=compact">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SpodoY&show_icons=true&hide_border=true">
-      </a>
-    </p>
-  </div>
